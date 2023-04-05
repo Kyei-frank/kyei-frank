@@ -51,5 +51,5 @@ I am a Data Scientist from Ghana
 ---
 
 ### :writing_hand: Blog Posts :
-https://medium.com/@fkbaffour
+Visit: https://medium.com/@fkbaffour
 
