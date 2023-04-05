@@ -25,8 +25,8 @@
 ---
 
 ### :man_technologist: About Me :
-- 👋 I,m Frank Kyei Baffour
+I am a Data Scientist from Ghana
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
-- 🌱 I’m currently learning Power IB
+- 🌱 I’m currently exploring Power BI
 - 💬 Ask me about Anything Data Science
 - 📫 How to reach me: frankkyeibaffour@gmail.coM
