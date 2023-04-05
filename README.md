@@ -29,4 +29,26 @@ I am a Data Scientist from Ghana
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
 - 🌱 I’m currently exploring Power BI
 - 💬 Ask me about Anything Data Science
-- 📫 How to reach me: frankkyeibaffour@gmail.coM
+- 📫 How to reach me: frankkyeibaffour@gmail.com
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+- Python
+- MySQL
+- Jupyter Notebook
+- KNIME ANALYTICS
+- Power BI
+- Microsoft Excel
+- Git
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyei-frank&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyei-frank)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
