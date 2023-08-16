@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 I am a Data Scientist from Ghana
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
-- 🌱 I’m currently exploring Data Visualisations with Tableu and Power BI
+- 🌱 I’m currently exploring TensorFlow for Deep Learning
 - 💬 Ask me about Anything Data Science
 - 📫 How to reach me: frankkyeibaffour@gmail.com
 
@@ -40,6 +40,7 @@ I am a Data Scientist from Ghana
 - KNIME ANALYTICS
 - Microsoft Excel
 - Git
+- Tableau
 ---
 
 ### :fire: My Stats :
