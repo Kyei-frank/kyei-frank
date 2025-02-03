@@ -26,8 +26,8 @@
 
 ### :man_technologist: About Me :
 I am a Data Scientist from Ghana
-- 👯 I’m looking to collaborate on Data Science and Machine Learning Projects
-- 🌱 I’m currently exploring TensorFlow for Deep Learning
+- 👯 I’m looking to collaborate on Machine Learning and AI Projects
+- 🌱 I’m currently exploring LangChain for Agentic AI applications
 - 💬 Ask me about Anything Data Science
 - 📫 How to reach me: frankkyeibaffour@gmail.com
 
